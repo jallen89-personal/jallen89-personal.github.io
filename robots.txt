@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: jallen89.github.io/sitemap.xml
